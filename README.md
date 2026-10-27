@@ -50,8 +50,7 @@ _Add details here: what it does, tools used, a photo._
 - Interested in AI, robotics, and digital literacy
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=moff2s&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moff2s&layout=compact&theme=tokyonight)
 ## 📫 Contact
 lindachoeun24@gmail.com
